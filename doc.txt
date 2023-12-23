@@ -2,3 +2,6 @@ import react and react native
 create component for returning jsx 
 create a stylesheet
 export component
+
+Import & Export Custom Component
+
